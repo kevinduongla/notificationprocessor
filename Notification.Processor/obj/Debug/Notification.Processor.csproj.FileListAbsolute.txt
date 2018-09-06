@@ -1,0 +1,10 @@
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\bin\Debug\Notification.Processor.exe.config
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\bin\Debug\Notification.Processor.exe
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\bin\Debug\Notification.Processor.pdb
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\bin\Debug\Topshelf.dll
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\bin\Debug\Topshelf.xml
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\obj\Debug\Notification.Processor.csprojAssemblyReference.cache
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\obj\Debug\Notification.Processor.csproj.CoreCompileInputs.cache
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\obj\Debug\Notification.Processor.csproj.CopyComplete
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\obj\Debug\Notification.Processor.exe
+E:\Blog\NotificationProcessor\Notification.Processor\Notification.Processor\obj\Debug\Notification.Processor.pdb
