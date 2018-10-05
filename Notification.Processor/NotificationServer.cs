@@ -38,20 +38,11 @@ namespace Notification.Processor
                     using (var transScope = new TransactionScope(TransactionScopeOption.Required, transactionOptions))
                     {
 
-                        Console.Write("Testing " + _clock.ToString() + "\n");
-
-
-
-
-
+                      // We are going to put our codes here.
 
                         transScope.Complete();
                         _clock++;
-
-                        //if (_clock == 10)
-                        //{
-                        //    _shouldWork = false;
-                        //}
+                      
                     }
                 }
                 catch (Exception x)
